@@ -1,5 +1,4 @@
 
-````markdown
 # 🧠 N-Queens Solver Benchmark
 
 This repository provides a comparative study of **four algorithmic approaches** to solving the classical **N-Queens problem**:
@@ -105,8 +104,7 @@ python genetic_algorithm_solver.py
 
 If this work is useful for your research or studies, please cite:
 
-```
-@misc{abbara2024nqueens,
+
   author = {Fadi Abbara and Raja Hashim Ali},
   title = {Solving the N-Queens Problem with Exhaustive Search, Local Search, and Genetic Algorithms},
   year = {2024},
