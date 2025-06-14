@@ -106,14 +106,18 @@ If this work is useful for your research or studies, please cite:
 
 
   author = {Fadi Abbara and Raja Hashim Ali},
+  
   title = {Solving the N-Queens Problem with Exhaustive Search, Local Search, and Genetic Algorithms},
+  
   year = {2024},
+  
   institution = {University of Europe for Applied Sciences},
+  
   note = {Course project for Machine Learning for Scientists and Scholars (MLSS)}
-}
-```
 
----
+
+
+
 
 ## 📝 License
 
